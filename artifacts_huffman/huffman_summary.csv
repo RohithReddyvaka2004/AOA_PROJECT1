@@ -1,0 +1,2 @@
+alphabet_size,stream_length,entropy_bits_per_symbol,avg_huffman_bits_per_symbol,fixed_length_bits_per_symbol,theoretical_gap_L_minus_H,compression_ratio_vs_fixed,lossless_decode_ok
+32,120000,3.959591834608937,3.986641666666667,5,0.027049832057729706,1.2541884669009211,True
